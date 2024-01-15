@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-### Disclaimer
-
-This microservice was necessary for me to graduate in the Master's Degree in Engineering of Computer and Telematics. If interested, check [MSC Eduardo Almeida]() to know more!
-
 ### REC Platform - Meters Microservice
 
 The Renewable Energy Community Platform consists in a microservices API to enable and enhance Peer-to-Peer energy Transactions between Prosumers and consumers of a community.
@@ -104,4 +100,4 @@ Project Link: [https://github.com/eapsa/REC-Platform-Meters.git](https://github.
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/eduardo-almeida-1a20b8257/
+[linkedin-url]: https://www.linkedin.com/in/AnBapDan/
