@@ -94,7 +94,7 @@ The all microservices structure is supposed to be deployed using Docker Swarm. B
 
 Daniel Andrade - dani.andrade@ua.pt
 
-Project Link: [https://github.com/eapsa/REC-Platform-Meters.git](https://github.com/AnBapDan/REC-Platform-Meters)
+Project Link: [https://github.com/AnBapDan/REC-Platform-Meters.git](https://github.com/AnBapDan/REC-Platform-Meters)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
